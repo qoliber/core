@@ -1,0 +1,16 @@
+{
+  "name": "qoliber/core",
+  "version": "1.0.0",
+  "type": "magento2-module",
+  "require": {
+    "magento/module-backend": "*"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Qoliber\\Core\\": ""
+    }
+  }
+}
