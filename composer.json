@@ -1,7 +1,14 @@
 {
   "name": "qoliber/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "magento2-module",
+  "authors": [
+    {
+      "name": "qoliber",
+      "email": "info@qoliber.com"
+    }
+  ],
+  "license": "See LICENSE.md or https://store.qoliber.com/license/",
   "require": {
     "magento/module-backend": "*"
   },
