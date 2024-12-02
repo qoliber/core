@@ -1,6 +1,9 @@
 {
   "name": "qoliber/core",
   "version": "1.0.1",
+    "source": {
+        "url": "git@gitlab.qoliber.dev:qoliber/core.git"
+    },
   "type": "magento2-module",
   "authors": [
     {
