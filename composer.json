@@ -13,7 +13,7 @@
       "email": "info@qoliber.com"
     }
   ],
-  "license": "See LICENSE.md or https://store.qoliber.com/license/",
+  "license": "See LICENSE.md or https://qoliber.com/license/",
   "require": {
     "magento/module-backend": "*"
   },
