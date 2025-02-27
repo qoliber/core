@@ -1,6 +1,6 @@
 {
   "name": "qoliber/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
     "source": {
         "type": "git",
         "url": "git@gitlab.qoliber.dev:qoliber/core.git",
