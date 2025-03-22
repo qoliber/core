@@ -1,95 +1,46 @@
-# QOLIBER EXTENSIONS USER LICENSE
+Open Software License v. 3.0 (OSL-3.0)
+This Open Software License (the "License") applies to any original work of authorship (the "Original Work") whose owner (the "Licensor") has placed the following licensing notice adjacent to the copyright notice for the Original Work:
 
-You can view and download the most recent version of these conditions at [qoliber.com/license](https://qoliber.com/license) at any time.
+Licensed under the Open Software License version 3.0
 
-By using any of our products or purchasing a product from Fiero Group Sp. z o.o. (the "licensor"), operating under the Qoliber brand, you (the "licensee") agree to comply with the following terms and conditions for using this product.
+1) Grant of Copyright License. Licensor grants You a worldwide, royalty-free, non-exclusive, sublicensable license, for the duration of the copyright, to do the following:
 
-## Definitions
-* **Product**: Software, scripts, documentation, and other materials produced or supplied by Qoliber Extensions, owned by Fiero Group Sp. z o.o. based in Poland.
-* **License Agreement**: Also referred to as convention, agreement, or conditions.
-* **End Product**: A (customized) implementation of the product, typically for eCommerce or other public-facing websites, like a single installation on Magento or other platforms.
+a) to reproduce the Original Work in copies, either alone or as part of a collective work;
 
-## In Simple Terms
-In summary, you need a license for **each** publicly accessible store using our **Product**.
+b) to translate, adapt, alter, transform, modify, or arrange the Original Work, thereby creating derivative works ("Derivative Works") based upon the Original Work;
 
-You **can** purchase it on behalf of your client, charge them, and customize it as needed for their website.
+c) to distribute or communicate copies of the Original Work and Derivative Works to the public, with the proviso that copies of Original Work or Derivative Works that You distribute or communicate shall be licensed under this Open Software License;
 
-Our one-off products have a **30-day refund** policy, no questions asked.
+d) to perform the Original Work publicly; and
 
-Our **support subscriptions** are non-refundable and billed annually.
+e) to display the Original Work publicly.
 
-You **cannot** redistribute any portion of the product, either commercially or for free, in any form.
+2) Grant of Patent License. Licensor grants You a worldwide, royalty-free, non-exclusive, sublicensable license, under patent claims owned or controlled by the Licensor that are embodied in the Original Work as furnished by the Licensor, for the duration of the patents, to make, use, sell, offer for sale, have made, and import the Original Work and Derivative Works.
 
-## 1. General License Terms
+3) Grant of Source Code License. The term "Source Code" means the preferred form of the Original Work for making modifications to it and all available documentation describing how to modify the Original Work. Licensor agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes. Licensor reserves the right to satisfy this obligation by placing a machine-readable copy of the Source Code in an information repository reasonably calculated to permit inexpensive and convenient access by You for as long as Licensor continues to distribute the Original Work.
 
-### 1.1 License Rights
+4) Exclusions From License Grant. Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior permission of the Licensor. Except as expressly stated herein, nothing in this License grants any license to Licensor's trademarks, copyrights, patents, trade secrets or any other intellectual property. No patent license is granted to make, use, sell, offer for sale, have made, or import embodiments of any patent claims other than the licensed claims defined in Section 2. No license is granted to the trademarks of Licensor even if such marks are included in the Original Work. Nothing in this License shall be interpreted to prohibit Licensor from licensing under terms different from this License any Original Work that Licensor otherwise would have a right to license.
 
-1.1.1 A license grants you, the licensee, ongoing, non-exclusive, worldwide rights to use the selected Qoliber Product.  
-1.1.2 By purchasing the software, you agree to the terms and conditions outlined in this agreement, and you commit to using the software strictly according to these terms.  
-1.1.3 The agreement is activated once you order the Product, download it from the licensor’s website, from code repositories like GitHub or GitLab, or receive it via email.  
-1.1.4 The license gives you the right to use the software in a single End Product or for private use, provided all other terms are met. A separate license must be purchased for each additional platform installation.  
-1.1.5 The software can be used on non-production environments for development or testing purposes.  
-1.1.6 You are allowed to modify, alter, or create derivative works from the Product. However, any resulting work is subject to the terms of this license, and a new license is required for the resulting End Product.
+5) External Deployment. The term "External Deployment" means the use, distribution, or communication of the Original Work or Derivative Works in any way such that the Original Work or Derivative Works may be used by anyone other than You, whether those works are distributed or communicated to those persons or made available as an application intended for use over a network. As an express condition for the grants of license hereunder, You must treat any External Deployment by You of the Original Work or a Derivative Work as a distribution under section 1(c).
 
-### 1.2 Ownership
+6) Attribution Rights. You must retain, in the Source Code of any Derivative Works that You create, all copyright, patent, or trademark notices from the Source Code of the Original Work, as well as any notices of licensing and any descriptive text identified therein as an "Attribution Notice." You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work.
 
-1.2.1 You can develop one End Product for a client and transfer that single End Product, along with the license, to your client for a fee.  
-1.2.2 You cannot sell the End Product to anyone other than a single client, at which point the license is transferred to the client.  
-1.2.3 The ownership of a license can only be transferred once, and must be done by notifying us via email with the necessary license and contact information of the new owner.  
-1.2.4 Redistribution of the Product as stock, in a tool, as part of a SaaS platform, a template, or with source files is strictly prohibited. You cannot redistribute the Product even with modifications, either for free or commercially.
+7) Warranty of Provenance and Disclaimer of Warranty. Licensor warrants that the copyright in and to the Original Work and the patent rights granted herein by Licensor are owned by the Licensor or are sublicensed to You under the terms of this License with the permission of the contributor(s) of those copyrights and patent rights. Except as expressly stated in the immediately preceding sentence, the Original Work is provided under this License on an "AS IS" BASIS and WITHOUT WARRANTY, either express or implied, including, without limitation, the warranties of non-infringement, merchantability or fitness for a particular purpose. THE ENTIRE RISK AS TO THE QUALITY OF THE ORIGINAL WORK IS WITH YOU. This DISCLAIMER OF WARRANTY constitutes an essential part of this License. No license to the Original Work is granted by this License except under this disclaimer.
 
-> If you plan to use the Product in any way that involves redistribution or resale, please contact us to discuss custom license terms.
+8) Limitation of Liability. Under no circumstances and under no legal theory, whether in tort (including negligence), contract, or otherwise, shall the Licensor be liable to anyone for any indirect, special, incidental, or consequential damages of any character arising as a result of this License or the use of the Original Work including, without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses. This limitation of liability shall not apply to the extent applicable law prohibits such limitation.
 
-### 1.3 Refund
+9) Acceptance and Termination. If, at any time, You expressly assented to this License, that assent indicates your clear and irrevocable acceptance of this License and all of its terms and conditions. If You distribute or communicate copies of the Original Work or a Derivative Work, You must make a reasonable effort under the circumstances to obtain the express assent of recipients to the terms of this License. This License conditions your rights to undertake the activities listed in Section 1, including your right to create Derivative Works based upon the Original Work, and doing so without honoring these terms and conditions is prohibited by copyright law and international treaty. Nothing in this License is intended to affect copyright exceptions and limitations (including "fair use" or "fair dealing"). This License shall terminate immediately and You may no longer exercise any of the rights granted to You by this License upon your failure to honor the conditions in Section 1(c).
 
-1.3.1 You may request a full refund within 30 days after the purchase, provided access to the code has been granted.  
-1.3.2 Once a refund is processed, you must delete all copies of the Product, and your access to our support systems will be revoked. Support and upgrade subscriptions are non-refundable.
+10) Termination for Patent Action. This License shall terminate automatically and You may no longer exercise any of the rights granted to You by this License as of the date You commence an action, including a cross-claim or counterclaim, against Licensor or any licensee alleging that the Original Work infringes a patent. This termination provision shall not apply for an action alleging patent infringement by combinations of the Original Work with other software or hardware.
 
-### 1.4 Copyright
+11) Jurisdiction, Venue and Governing Law. Any action or suit relating to this License may be brought only in the courts of a jurisdiction wherein the Licensor resides or in which Licensor conducts its primary business, and under the laws of that jurisdiction excluding its conflict-of-law provisions. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Any use of the Original Work outside the scope of this License or after its termination shall be subject to the requirements and penalties of copyright or patent law in the appropriate jurisdiction. This section shall survive the termination of this License.
 
-1.4.1 Fiero Group Sp. z o.o. is the copyright holder of the software and its documentation. The software and parts thereof are protected by copyright law. Any breach of these terms will be prosecuted under applicable law.  
-1.4.2 Contributions made by third parties to the Product will become part of the Product. The contributor waives any intellectual property rights unless otherwise agreed upon prior to the contribution.  
-1.4.3 The licensee must retain all copyright information within the software and documentation unchanged.  
-1.4.4 The licensor reserves the right to publicly display a selection of users of the Product.
+12) Attorneys' Fees. In any action to enforce the terms of this License or seeking damages relating thereto, the prevailing party shall be entitled to recover its costs and expenses, including, without limitation, reasonable attorneys' fees and costs incurred in connection with such action, including any appeal of such action. This section shall survive the termination of this License.
 
-### 1.5 Liabilities
+13) Miscellaneous. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
 
-1.5.1 The licensor cannot be held responsible for damages, including lost profits or indirect damages, caused by the licensee’s or its agents’ use of the software.  
-1.5.2 The licensor will not be held liable for prosecution or damages arising from unlawful use of the Software.
+14) Definition of "You" in This License. "You" throughout this License, whether in upper or lower case, means an individual or a legal entity exercising rights under, and complying with all of the terms of, this License. For legal entities, "You" includes any entity that controls, is controlled by, or is under common control with you. For purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
 
-### 1.6 Breach and Termination
+15) Right to Use. You may use the Original Work in all ways not otherwise restricted or conditioned by this License or by law, and Licensor promises not to interfere with or be responsible for such uses by You.
 
-1.6.1 If the licensee fails to comply with the terms of this license agreement, the software license will be revoked.  
-1.6.2 Reproduction or distribution of the software without the licensor's permission, even if it is non-commercial, is considered a breach of this agreement and will be prosecuted under applicable laws.  
-1.6.3 The licensor reserves the right to modify the license agreement at any time.  
-1.6.4 This license agreement remains valid until it is terminated. The licensor can terminate the license if the agreement is breached. The licensee may terminate the agreement by deleting all copies of the software. Continued use of the software is not allowed after termination.  
-1.6.5 In the event of a license breach, the licensor will send a termination notice. The licensee agrees to cease use and pay any costs (including legal fees) required to enforce the termination and recover any damages.  
-1.6.6 This agreement is governed by Polish law. Any disputes will be exclusively handled by the courts in Poland, excluding other jurisdictions.  
-1.6.7 If the licensee continues using the software after termination, they agree to an injunction and payment of all costs to enforce the termination and recover damages.
-
-## 2. Qoliber License Terms
-
-2.1 A Qoliber License covers a single installation with unlimited storeviews and domains.  
-2.2 The license can also be used on unlimited development or staging environments as long as they are related to the same business entity or End Product.  
-2.3 At least one domain connected to the production installation must be provided to the licensor.  
-2.4 Any changes to the linked domain must be reported to the licensor.  
-2.5 A single license cannot cover multiple businesses or legal entities. Systems integrators must buy a separate license for each client.  
-2.6 Product updates and support are included with the Qoliber license.
-
-## 3. Yearly Support and Upgrade Subscription
-
-3.1 The Yearly support is subscription-based.  
-3.2 This plan includes access to the support team and software updates for the duration of the subscription.  
-3.3 Each subscription lasts for one (1) year.  
-3.4 Subscriptions may be canceled at any time, but must be done before the end of the current term.  
-3.5 After cancellation, the subscription remains active until the end of the current term, and no refunds are provided.  
-3.6 Invoices for renewal are sent one month before the end of the current term. Failure to pay within 28 days will result in suspension of the license.
-3.7 The lifetime license it **not** subscription based
-
-## 4. Multi Year Support and Upgrade Package
-
-4.1 The Multi Year Support and Upgrade Package is a one-time purchase covering several years of service.  
-4.2 It includes access to support and software updates for the duration of the package.  
-4.3 Multi Year Support Packages are non-refundable.
-
-Copyright © Fiero Group Sp. z o.o. 2012-present. All rights reserved.
+16) Modification of This License. This License is Copyright © 2005 Lawrence Rosen. Permission is granted to copy, distribute, or communicate this License without modification. Nothing in this License permits You to modify this License as applied to the Original Work or to Derivative Works. However, You may modify the text of this License and copy, distribute or communicate your modified version (the "Modified License") and apply it to other original works of authorship subject to the following conditions: (i) You may not indicate in any way that your Modified License is the "Open Software License" or "OSL" and you may not use those names in the name of your Modified License; (ii) You must replace the notice specified in the first paragraph above with the notice "Licensed under <insert your license name here>" or with a notice of your own that is not confusingly similar to the notice in this License; and (iii) You may not claim that your original works are open source software unless your Modified License has been approved by Open Source Initiative (OSI) and You comply with its license review and certification process.
