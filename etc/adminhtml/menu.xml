@@ -13,7 +13,7 @@
              title="Qoliber"
              translate="title"
              module="Qoliber_Core"
-             sortOrder="10"
+             sortOrder="60"
              resource="Qoliber_Core::menu"
         />
         <add id="Qoliber_Core::configuration"
