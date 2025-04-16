@@ -16,6 +16,13 @@
              sortOrder="60"
              resource="Qoliber_Core::menu"
         />
+        <add id="Qoliber_Core::manage"
+             title="Manage"
+             module="Qoliber_Core"
+             sortOrder="10"
+             resource="Qoliber_Core::menu"
+             parent="Qoliber_Core::menu" />
+
         <add id="Qoliber_Core::configuration"
              title="Configuration"
              module="Qoliber_Core"
